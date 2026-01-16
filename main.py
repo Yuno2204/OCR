@@ -27,3 +27,4 @@ if result:
     print(result)
 else:
     print("Không nhận được kết quả OCR")
+~
